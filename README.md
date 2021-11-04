@@ -26,11 +26,11 @@
 <hr>
 Para testar o projeto basta:
 
-1 - Realizar o clone do projeto.
-2 - Instalar o cliente HTTP, é recomendado o insomnia.
-3 - Utilizar o comando `npm install express`.
-4 - Utilizar o comando `npm install -D nodemon`.
-5 - No terminal, utilizar o comando `npx nodemon index.js` e acessar a API na porta 8000.
+1. Realizar o clone do projeto.
+2. Instalar o cliente HTTP, é recomendado o insomnia.
+3. Utilizar o comando `npm install express`.
+4. Utilizar o comando `npm install -D nodemon`.
+5. No terminal, utilizar o comando `npx nodemon index.js` e acessar a API na porta 8000.
 
 ### Estrutura do objeto no arquivo `bancodedados.js`
 
