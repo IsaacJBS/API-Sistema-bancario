@@ -1,6 +1,6 @@
 # API Sistema Bancário
 
- Esta API Restful é um projeto piloto, que irá ser melhorada com mais funcionalidades. Os dados são persistidos em memória, no objeto existente dentro do arquivo `bancodedados.js`, ou seja, caso reinicie a API, os dados são perdidos. Até o momento, ela permite: 
+ Esta API Restful é um projeto piloto, que irá ser melhorada com mais funcionalidades. Os dados são persistidos em memória, no objeto existente dentro do arquivo bancodedados.js, ou seja, caso reinicie a API, os dados são perdidos. Até o momento, ela permite: 
  
 - Criar conta bancária
 
