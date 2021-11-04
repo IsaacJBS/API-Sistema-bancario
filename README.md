@@ -1,6 +1,5 @@
 # API Sistema Bancário
 
-<hr>
  Esta API Restful é um projeto piloto, que irá ser melhorada com mais funcionalidades. Os dados são persistidos em memória, no objeto existente dentro do arquivo `bancodedados.js`, ou seja, caso reinicie a API, os dados são perdidos. Até o momento, ela permite: 
  
 - Criar conta bancária
@@ -23,7 +22,6 @@
 
 # Instalação
 
-<hr>
 Para testar o projeto basta:
 
 1. Realizar o clone do projeto.
@@ -57,7 +55,6 @@ Para testar o projeto basta:
 
 # Rotas
 
-<hr>
 
 #### `GET` `/contas?senha_banco=Cubos123Bank`
 
